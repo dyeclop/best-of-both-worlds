@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Best_of_Both_Worlds:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Best_of_Both_Worlds_jar</output-path>
+    <root id="archive" name="Best_of_Both_Worlds.jar">
+      <element id="module-output" name="Best_of_Both_Worlds" />
+    </root>
+  </artifact>
+</component>
